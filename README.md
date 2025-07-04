@@ -1,4 +1,4 @@
-# 🚀 Meu Aprendizado com Flutter
+# 🚀 Meu Aprendizado com Dart e Flutter
 
 ## 📌 Sobre o Flutter e o Dart
 
